@@ -3,6 +3,10 @@
 	<target host="www.szm.sk" />
 	<target host="szm.com" />
 	<target host="www.szm.com" />
+	<target host="posta.szm.sk" />
+	<target host="posta1.szm.sk" />
+	<target host="www.posta.szm.sk" />
+	<target host="www.posta1.szm.sk" />
 
 	<rule from="^http:" to="https:" />
 </ruleset>
