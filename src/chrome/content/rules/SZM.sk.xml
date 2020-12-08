@@ -1,0 +1,8 @@
+<ruleset name="SZM.sk">
+	<target host="szm.sk" />
+	<target host="www.szm.sk" />
+	<target host="szm.com" />
+	<target host="www.szm.com" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>
