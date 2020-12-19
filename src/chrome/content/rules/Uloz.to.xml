@@ -1,0 +1,13 @@
+<!--    uloz.to  file sharing
+-->
+<ruleset name="Uloz.to">
+	<target host="uloz.to" />
+	<target host="www.uloz.to" />
+
+	<target host="advert.uloz.to" />
+	<target host="download.uloz.to" />
+	<target host="static.uloz.to" />
+	<target host="thumbs.uloz.to" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>
